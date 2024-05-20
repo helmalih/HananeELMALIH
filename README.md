@@ -1,5 +1,6 @@
 
 ### Hi there 👋, i'm Hanane !!!
+<hr>
 
 👩‍💻 **About Me:**
 
@@ -18,3 +19,10 @@ Hi, i'm Hanane EL MALIH, a Software Engineer and Test Automation, im from Tanger
 
 
 ☕**Tech tools and skills :**
+<hr>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,java,mysql,c,postgres,angular,postman,cpp,bootstrap,html,spring,selenium,react,php"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Icon" style="width:50px;height:auto;">
+</a>
+</p>
