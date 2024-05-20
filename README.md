@@ -1,9 +1,12 @@
 #helmalih
+
 My Personal Repository
+
 ### Hi there 👋, i'm Hanane !!!
+
 👩‍💻 **About Me:**
 
-Hi, i'm Hanane EL MALIH, a Software Engineer and Test Automation, im from 
+Hi, i'm Hanane EL MALIH, a Software Engineer and Test Automation, im from Tanger, Morocco.
 
 💡  I like to explore new technologies and develop software solutions.
 
